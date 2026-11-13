@@ -13,3 +13,7 @@ Ponto2:Angelica
 Fosco:Dora,Drogo,Dudo
 Drogo:Frodo
 Dudo:Daisy
+Lily:Rosie,Marigold
+Bingo:Thistle,Primrose
+Falco:Belladonna,Fortinbras
+Poppy:Samwise,Elanor
